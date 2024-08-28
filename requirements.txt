@@ -1,3 +1,4 @@
 fastapi[all]
+sklearn==1.5.1
 joblib
-sklearn
+
