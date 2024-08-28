@@ -1,4 +1,4 @@
 fastapi[all]
-sklearn==1.4
+scikit-learn==1.4.0
 joblib
 
